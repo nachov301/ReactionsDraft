@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_crying"
+        android:icon="@drawable/crying"
+        android:title="Crying" />
+    <item
+        android:id="@+id/nav_in_love"
+        android:icon="@drawable/in_love"
+        android:title="In love" />
+    <item
+        android:id="@+id/nav_laughing"
+        android:icon="@drawable/laughing"
+        android:title="Laughing" />
+    <item
+        android:id="@+id/nav_sad"
+        android:icon="@drawable/sad"
+        android:title="Sad" />
+    <item
+        android:id="@+id/nav_smiling"
+        android:icon="@drawable/smiling"
+        android:title="Smiling" />
+
+</menu>
